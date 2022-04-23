@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">base_aplicativo</string>
+    \\telaHome
+    <string name="bemVindo"><b>Bem Vindo!!</b></string>
+    <string name="consulteaqui">Consulte aqui passagens</string>
+    <string name="preparadas">Preparadas especialmente para Você!</string>
+    <string name="login">Login</string>
+    <string name="aindaN">Ainda não tem conta?</string>
+    <string name="criarLogin">Criar Login</string>
+    <string name="buscar">Buscar</string>
+    \\telaLogin
+    <string name="entre">Entre no seu login e explore!</string>
+    <string name="entreEmail">Entre com o seu Email</string>
+    <string name="entreSenha">Entre com a sua senha</string>
+    <string name="nomeUsuario">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="esqueceuSenha">Esqueceu a sua senha?</string>
+    \\telaCadastro
+    <string name="cadastrese">Cadastre-se</string>
+    <string name="criasua">Cria sua conta e receba Atualizações</string>
+    <string name="telefone">Telefone</string>
+    <string name="criarconta">Criar conta</string>
+    <string name="confirmesenha">Confirme a sua senha</string>
+    <string name="digiteSenha">Digite a senha</string>
+    <string name="digiteCSenha">Digite novamente a senha</string>
+    <string name="digiteEmail">Digite o seu E-mail</string>
+    <string name="digiteTelefone">Digite o seu telefone</string>
 </resources>
