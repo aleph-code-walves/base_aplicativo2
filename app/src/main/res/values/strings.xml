@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">base_aplicativo</string>
+
+    <string name="textMenu1">Aonde você gostaria de ir?</string>
+    <string name="search">Pesquisar</string>
+    <string name="searchr">Pesquise</string>
+    <string name="othersSearchs">Outras Pesquisas</string>
+    <string name="descover">Descubra como encontrar seu acento!</string>
+    <string name="card1">Florianópolis - Navegantes</string>
+    <string name="textcard1">$ 120 / Pessoa</string>
+    <string name="card2">Curitiba - Navegantes</string>
+    <string name="textcard2">$ 200 / Pessoa</string>
+
 </resources>

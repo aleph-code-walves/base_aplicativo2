@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="container_top">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">260dp</item>
+        <item name="android:background">@drawable/baground_top</item>
+    </style>
+
+    <style name="container_labels">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="background">@drawable/label_layout</item>
+        <item name="android:padding">13dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_marginRight">18dp</item>
+    </style>
+
+</resources>
