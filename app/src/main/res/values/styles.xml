@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="botaoHome">
-        <item name="android:background">@drawable</item>
+        <item name="android:background">@drawable/botaopadrao</item>
         <item name="android:padding">10dp</item>
     </style>
     <style name="botaoBuscar">
-        <item name="android:background">@drawable/b</item>
-        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/botaobranco</item>
+        <item name="android:padding">20dp</item>
     </style>
 </resources>

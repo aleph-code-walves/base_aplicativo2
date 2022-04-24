@@ -73,22 +73,6 @@
             android:layout_marginTop="10dp"
             android:text="@string/login" />
 
-        <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/buscar"
-            style="@style/botaoHome"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/login"
-            android:textAlignment="2"
-            android:textStyle="bold"
-            android:textColor="@color/white"
-            android:textSize="18sp"
-
-            android:layout_marginTop="10dp"
-            android:text="@string/buscar" />
-
-
-
 
     </RelativeLayout>
 
@@ -100,6 +84,24 @@
 
 
     </RelativeLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/buscar"
+        style="@style/botaoBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textColor="@color/colorprimary"
+        android:textSize="20sp"
+        android:drawableLeft="@drawable/ic_search"
+        android:textStyle="bold"
+
+        android:text="@string/buscar"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_above="@id/imageView2"
+        />
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="400dp"

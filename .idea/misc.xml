@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kelvy/OneDrive/Faculdade/ProgDispMoveis/Oficial/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/kelvy/OneDrive/Faculdade/ProgDispMoveis/base_aplicativo/app/src/main/res/drawable/botaobranco.xml" value="0.1935" />
         <entry key="..\:/Users/kelvy/OneDrive/Faculdade/ProgDispMoveis/base_aplicativo/app/src/main/res/drawable/botaopadrao.xml" value="0.1935" />
-        <entry key="..\:/Users/kelvy/OneDrive/Faculdade/ProgDispMoveis/base_aplicativo/app/src/main/res/layout/activity_main.xml" value="0.29494614747307374" />
+        <entry key="..\:/Users/kelvy/OneDrive/Faculdade/ProgDispMoveis/base_aplicativo/app/src/main/res/drawable/ic_search.xml" value="0.1935" />
+        <entry key="..\:/Users/kelvy/OneDrive/Faculdade/ProgDispMoveis/base_aplicativo/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>
